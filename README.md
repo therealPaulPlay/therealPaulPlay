@@ -1,4 +1,4 @@
-## Hey, I'm Paul :)
+## Hey, I'm Paul
 
 I'm working on [OpenGuessr](https://openguessr.com) and [ROOT](https://rootprivacy.com).
 
